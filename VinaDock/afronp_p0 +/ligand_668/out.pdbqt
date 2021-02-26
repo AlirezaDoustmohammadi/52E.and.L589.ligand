@@ -1,0 +1,486 @@
+MODEL 1
+REMARK VINA RESULT:      -8.2      0.000      0.000
+REMARK  Name = ZINC05705861
+REMARK  9 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_2
+REMARK    2  A    between atoms: C5_5  and  C30_35
+REMARK    3  A    between atoms: C10_11  and  C22_26
+REMARK    4  A    between atoms: C14_16  and  C21_25
+REMARK    5  A    between atoms: C17_19  and  O1_24
+REMARK    6  A    between atoms: C18_21  and  C19_22
+REMARK    7  A    between atoms: C18_21  and  C20_23
+REMARK    8  A    between atoms: C25_30  and  C28_33
+REMARK    9  A    between atoms: C25_30  and  C29_34
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1      43.370  17.796  20.839  0.00  0.00    +0.023 C 
+ATOM      2  C   UNL     1      43.075  19.254  21.186  0.00  0.00    -0.044 C 
+ATOM      3  C   UNL     1      43.764  19.611  22.505  0.00  0.00    +0.008 C 
+ATOM      4  C   UNL     1      45.267  19.343  22.415  0.00  0.00    +0.022 C 
+ATOM      5  C   UNL     1      45.915  20.114  21.272  0.00  0.00    +0.000 C 
+ATOM      6  C   UNL     1      45.890  21.601  21.656  0.00  0.00    +0.017 C 
+ATOM      7  C   UNL     1      45.113  20.000  20.002  0.00  0.00    -0.089 C 
+ATOM      8  C   UNL     1      45.642  19.795  18.833  0.00  0.00    -0.067 C 
+ATOM      9  C   UNL     1      47.121  19.656  18.592  0.00  0.00    +0.058 C 
+ATOM     10  C   UNL     1      47.887  20.276  19.760  0.00  0.00    +0.005 C 
+ATOM     11  C   UNL     1      49.396  20.168  19.545  0.00  0.00    -0.034 C 
+ATOM     12  C   UNL     1      49.803  18.742  19.187  0.00  0.00    +0.027 C 
+ATOM     13  C   UNL     1      49.774  21.072  18.357  0.00  0.00    +0.018 C 
+ATOM     14  C   UNL     1      51.288  21.063  18.166  0.00  0.00    -0.018 C 
+ATOM     15  C   UNL     1      51.975  21.640  19.398  0.00  0.00    +0.165 C 
+ATOM     18  C   UNL     1      51.601  20.878  20.671  0.00  0.00    -0.038 C 
+ATOM     19  C   UNL     1      52.387  19.571  20.751  0.00  0.00    +0.034 C 
+ATOM     20  C   UNL     1      52.069  21.760  21.855  0.00  0.00    +0.018 C 
+ATOM     21  C   UNL     1      50.108  20.682  20.790  0.00  0.00    -0.001 C 
+ATOM     22  C   UNL     1      49.706  19.837  21.997  0.00  0.00    +0.017 C 
+ATOM     23  C   UNL     1      48.217  20.128  22.261  0.00  0.00    +0.014 C 
+ATOM     24  C   UNL     1      47.373  19.689  21.068  0.00  0.00    -0.024 C 
+ATOM     25  C   UNL     1      47.396  18.154  21.001  0.00  0.00    +0.017 C 
+ATOM     26  C   UNL     1      41.566  19.450  21.324  0.00  0.00    +0.011 C 
+ATOM     27  C   UNL     1      40.861  19.187  20.000  0.00  0.00    +0.013 C 
+ATOM     28  C   UNL     1      41.421  20.047  18.872  0.00  0.00    -0.060 C 
+ATOM     29  C   UNL     1      41.050  21.513  19.099  0.00  0.00    +0.019 C 
+ATOM     30  C   UNL     1      40.789  19.589  17.548  0.00  0.00    +0.015 C 
+ATOM     31  C   UNL     1      42.937  19.900  18.764  0.00  0.00    +0.026 C 
+ATOM     32  C   UNL     1      43.609  20.184  20.098  0.00  0.00    +0.037 C 
+ENDROOT
+BRANCH  15  16
+ATOM     16  O   UNL     1      53.395  21.590  19.220  0.00  0.00    -0.564 OA
+ATOM     17  H   UNL     1      53.774  22.400  18.851  0.00  0.00    +0.375 HD
+ENDBRANCH  15  16
+TORSDOF 1
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -7.1      5.062      6.849
+REMARK  Name = ZINC05705861
+REMARK  9 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_2
+REMARK    2  A    between atoms: C5_5  and  C30_35
+REMARK    3  A    between atoms: C10_11  and  C22_26
+REMARK    4  A    between atoms: C14_16  and  C21_25
+REMARK    5  A    between atoms: C17_19  and  O1_24
+REMARK    6  A    between atoms: C18_21  and  C19_22
+REMARK    7  A    between atoms: C18_21  and  C20_23
+REMARK    8  A    between atoms: C25_30  and  C28_33
+REMARK    9  A    between atoms: C25_30  and  C29_34
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1      46.730  18.380  21.666  0.00  0.00    +0.023 C 
+ATOM      2  C   UNL     1      46.218  19.106  20.423  0.00  0.00    -0.044 C 
+ATOM      3  C   UNL     1      47.392  19.397  19.484  0.00  0.00    +0.008 C 
+ATOM      4  C   UNL     1      48.123  18.101  19.124  0.00  0.00    +0.022 C 
+ATOM      5  C   UNL     1      47.191  17.083  18.481  0.00  0.00    +0.000 C 
+ATOM      6  C   UNL     1      46.816  17.623  17.092  0.00  0.00    +0.017 C 
+ATOM      7  C   UNL     1      45.896  16.960  19.240  0.00  0.00    -0.089 C 
+ATOM      8  C   UNL     1      45.323  15.824  19.505  0.00  0.00    -0.067 C 
+ATOM      9  C   UNL     1      45.868  14.487  19.081  0.00  0.00    +0.058 C 
+ATOM     10  C   UNL     1      46.843  14.681  17.920  0.00  0.00    +0.005 C 
+ATOM     11  C   UNL     1      47.409  13.343  17.449  0.00  0.00    -0.034 C 
+ATOM     12  C   UNL     1      47.950  12.527  18.621  0.00  0.00    +0.027 C 
+ATOM     13  C   UNL     1      46.261  12.537  16.813  0.00  0.00    +0.018 C 
+ATOM     14  C   UNL     1      46.804  11.228  16.248  0.00  0.00    -0.018 C 
+ATOM     15  C   UNL     1      47.811  11.513  15.141  0.00  0.00    +0.165 C 
+ATOM     18  C   UNL     1      48.964  12.392  15.629  0.00  0.00    -0.038 C 
+ATOM     19  C   UNL     1      49.961  11.555  16.427  0.00  0.00    +0.034 C 
+ATOM     20  C   UNL     1      49.701  12.884  14.358  0.00  0.00    +0.018 C 
+ATOM     21  C   UNL     1      48.466  13.602  16.384  0.00  0.00    -0.001 C 
+ATOM     22  C   UNL     1      49.592  14.450  16.974  0.00  0.00    +0.017 C 
+ATOM     23  C   UNL     1      48.993  15.837  17.264  0.00  0.00    +0.014 C 
+ATOM     24  C   UNL     1      47.882  15.727  18.305  0.00  0.00    -0.024 C 
+ATOM     25  C   UNL     1      48.522  15.363  19.654  0.00  0.00    +0.017 C 
+ATOM     26  C   UNL     1      45.554  20.419  20.837  0.00  0.00    +0.011 C 
+ATOM     27  C   UNL     1      44.327  20.158  21.701  0.00  0.00    +0.013 C 
+ATOM     28  C   UNL     1      43.328  19.235  21.012  0.00  0.00    -0.060 C 
+ATOM     29  C   UNL     1      42.684  19.953  19.825  0.00  0.00    +0.019 C 
+ATOM     30  C   UNL     1      42.221  18.876  22.017  0.00  0.00    +0.015 C 
+ATOM     31  C   UNL     1      43.997  17.944  20.544  0.00  0.00    +0.026 C 
+ATOM     32  C   UNL     1      45.207  18.241  19.673  0.00  0.00    +0.037 C 
+ENDROOT
+BRANCH  15  16
+ATOM     16  O   UNL     1      48.339  10.277  14.646  0.00  0.00    -0.564 OA
+ATOM     17  H   UNL     1      47.792   9.506  14.849  0.00  0.00    +0.375 HD
+ENDBRANCH  15  16
+TORSDOF 1
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -6.7      4.927      8.172
+REMARK  Name = ZINC05705861
+REMARK  9 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_2
+REMARK    2  A    between atoms: C5_5  and  C30_35
+REMARK    3  A    between atoms: C10_11  and  C22_26
+REMARK    4  A    between atoms: C14_16  and  C21_25
+REMARK    5  A    between atoms: C17_19  and  O1_24
+REMARK    6  A    between atoms: C18_21  and  C19_22
+REMARK    7  A    between atoms: C18_21  and  C20_23
+REMARK    8  A    between atoms: C25_30  and  C28_33
+REMARK    9  A    between atoms: C25_30  and  C29_34
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1      50.087  13.194  18.934  0.00  0.00    +0.023 C 
+ATOM      2  C   UNL     1      48.919  12.471  18.264  0.00  0.00    -0.044 C 
+ATOM      3  C   UNL     1      47.875  12.104  19.322  0.00  0.00    +0.008 C 
+ATOM      4  C   UNL     1      47.412  13.354  20.072  0.00  0.00    +0.022 C 
+ATOM      5  C   UNL     1      46.842  14.406  19.130  0.00  0.00    +0.000 C 
+ATOM      6  C   UNL     1      45.511  13.859  18.591  0.00  0.00    +0.017 C 
+ATOM      7  C   UNL     1      47.724  14.608  17.926  0.00  0.00    -0.089 C 
+ATOM      8  C   UNL     1      48.018  15.776  17.438  0.00  0.00    -0.067 C 
+ATOM      9  C   UNL     1      47.509  17.075  18.000  0.00  0.00    +0.058 C 
+ATOM     10  C   UNL     1      46.262  16.811  18.842  0.00  0.00    +0.005 C 
+ATOM     11  C   UNL     1      45.704  18.110  19.420  0.00  0.00    -0.034 C 
+ATOM     12  C   UNL     1      46.795  18.920  20.115  0.00  0.00    +0.027 C 
+ATOM     13  C   UNL     1      45.168  18.960  18.253  0.00  0.00    +0.018 C 
+ATOM     14  C   UNL     1      44.519  20.230  18.798  0.00  0.00    -0.018 C 
+ATOM     15  C   UNL     1      43.324  19.874  19.673  0.00  0.00    +0.165 C 
+ATOM     18  C   UNL     1      43.714  18.947  20.826  0.00  0.00    -0.038 C 
+ATOM     19  C   UNL     1      44.388  19.749  21.938  0.00  0.00    +0.034 C 
+ATOM     20  C   UNL     1      42.388  18.395  21.405  0.00  0.00    +0.018 C 
+ATOM     21  C   UNL     1      44.545  17.778  20.350  0.00  0.00    -0.001 C 
+ATOM     22  C   UNL     1      45.039  16.887  21.489  0.00  0.00    +0.017 C 
+ATOM     23  C   UNL     1      45.420  15.537  20.856  0.00  0.00    +0.014 C 
+ATOM     24  C   UNL     1      46.564  15.722  19.863  0.00  0.00    -0.024 C 
+ATOM     25  C   UNL     1      47.833  16.079  20.654  0.00  0.00    +0.017 C 
+ATOM     26  C   UNL     1      49.429  11.201  17.583  0.00  0.00    +0.011 C 
+ATOM     27  C   UNL     1      50.406  11.540  16.465  0.00  0.00    +0.013 C 
+ATOM     28  C   UNL     1      49.799  12.498  15.446  0.00  0.00    -0.060 C 
+ATOM     29  C   UNL     1      48.700  11.790  14.651  0.00  0.00    +0.019 C 
+ATOM     30  C   UNL     1      50.901  12.930  14.465  0.00  0.00    +0.015 C 
+ATOM     31  C   UNL     1      49.236  13.745  16.124  0.00  0.00    +0.026 C 
+ATOM     32  C   UNL     1      48.255  13.371  17.225  0.00  0.00    +0.037 C 
+ENDROOT
+BRANCH  15  16
+ATOM     16  O   UNL     1      42.749  21.072  20.206  0.00  0.00    -0.564 OA
+ATOM     17  H   UNL     1      42.280  20.945  21.042  0.00  0.00    +0.375 HD
+ENDBRANCH  15  16
+TORSDOF 1
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -6.5      5.109      6.866
+REMARK  Name = ZINC05705861
+REMARK  9 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_2
+REMARK    2  A    between atoms: C5_5  and  C30_35
+REMARK    3  A    between atoms: C10_11  and  C22_26
+REMARK    4  A    between atoms: C14_16  and  C21_25
+REMARK    5  A    between atoms: C17_19  and  O1_24
+REMARK    6  A    between atoms: C18_21  and  C19_22
+REMARK    7  A    between atoms: C18_21  and  C20_23
+REMARK    8  A    between atoms: C25_30  and  C28_33
+REMARK    9  A    between atoms: C25_30  and  C29_34
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1      47.075  17.589  21.467  0.00  0.00    +0.023 C 
+ATOM      2  C   UNL     1      47.139  18.637  20.358  0.00  0.00    -0.044 C 
+ATOM      3  C   UNL     1      48.599  18.868  19.960  0.00  0.00    +0.008 C 
+ATOM      4  C   UNL     1      49.252  17.552  19.534  0.00  0.00    +0.022 C 
+ATOM      5  C   UNL     1      48.504  16.892  18.383  0.00  0.00    +0.000 C 
+ATOM      6  C   UNL     1      48.726  17.764  17.138  0.00  0.00    +0.017 C 
+ATOM      7  C   UNL     1      47.017  16.882  18.622  0.00  0.00    -0.089 C 
+ATOM      8  C   UNL     1      46.257  15.855  18.383  0.00  0.00    -0.067 C 
+ATOM      9  C   UNL     1      46.757  14.549  17.828  0.00  0.00    +0.058 C 
+ATOM     10  C   UNL     1      48.103  14.772  17.139  0.00  0.00    +0.005 C 
+ATOM     11  C   UNL     1      48.639  13.470  16.547  0.00  0.00    -0.034 C 
+ATOM     12  C   UNL     1      48.617  12.344  17.577  0.00  0.00    +0.027 C 
+ATOM     13  C   UNL     1      47.714  13.056  15.388  0.00  0.00    +0.018 C 
+ATOM     14  C   UNL     1      48.267  11.805  14.710  0.00  0.00    -0.018 C 
+ATOM     15  C   UNL     1      49.634  12.098  14.104  0.00  0.00    +0.165 C 
+ATOM     18  C   UNL     1      50.626  12.611  15.150  0.00  0.00    -0.038 C 
+ATOM     19  C   UNL     1      51.159  11.447  15.983  0.00  0.00    +0.034 C 
+ATOM     20  C   UNL     1      51.826  13.190  14.360  0.00  0.00    +0.018 C 
+ATOM     21  C   UNL     1      50.034  13.720  15.989  0.00  0.00    -0.001 C 
+ATOM     22  C   UNL     1      50.960  14.187  17.110  0.00  0.00    +0.017 C 
+ATOM     23  C   UNL     1      50.465  15.580  17.538  0.00  0.00    +0.014 C 
+ATOM     24  C   UNL     1      49.047  15.489  18.096  0.00  0.00    -0.024 C 
+ATOM     25  C   UNL     1      49.106  14.739  19.437  0.00  0.00    +0.017 C 
+ATOM     26  C   UNL     1      46.529  19.946  20.859  0.00  0.00    +0.011 C 
+ATOM     27  C   UNL     1      45.051  19.769  21.179  0.00  0.00    +0.013 C 
+ATOM     28  C   UNL     1      44.269  19.224  19.990  0.00  0.00    -0.060 C 
+ATOM     29  C   UNL     1      44.190  20.281  18.887  0.00  0.00    +0.019 C 
+ATOM     30  C   UNL     1      42.838  18.901  20.451  0.00  0.00    +0.015 C 
+ATOM     31  C   UNL     1      44.904  17.945  19.447  0.00  0.00    +0.026 C 
+ATOM     32  C   UNL     1      46.375  18.162  19.124  0.00  0.00    +0.037 C 
+ENDROOT
+BRANCH  15  16
+ATOM     16  O   UNL     1      50.156  10.906  13.505  0.00  0.00    -0.564 OA
+ATOM     17  H   UNL     1      50.704  10.376  14.099  0.00  0.00    +0.375 HD
+ENDBRANCH  15  16
+TORSDOF 1
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -6.4      4.421      6.657
+REMARK  Name = ZINC05705861
+REMARK  9 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_2
+REMARK    2  A    between atoms: C5_5  and  C30_35
+REMARK    3  A    between atoms: C10_11  and  C22_26
+REMARK    4  A    between atoms: C14_16  and  C21_25
+REMARK    5  A    between atoms: C17_19  and  O1_24
+REMARK    6  A    between atoms: C18_21  and  C19_22
+REMARK    7  A    between atoms: C18_21  and  C20_23
+REMARK    8  A    between atoms: C25_30  and  C28_33
+REMARK    9  A    between atoms: C25_30  and  C29_34
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1      49.423  13.625  18.584  0.00  0.00    +0.023 C 
+ATOM      2  C   UNL     1      48.002  13.127  18.845  0.00  0.00    -0.044 C 
+ATOM      3  C   UNL     1      47.661  13.316  20.325  0.00  0.00    +0.008 C 
+ATOM      4  C   UNL     1      47.832  14.781  20.731  0.00  0.00    +0.022 C 
+ATOM      5  C   UNL     1      46.973  15.710  19.884  0.00  0.00    +0.000 C 
+ATOM      6  C   UNL     1      45.509  15.452  20.269  0.00  0.00    +0.017 C 
+ATOM      7  C   UNL     1      47.080  15.380  18.418  0.00  0.00    -0.089 C 
+ATOM      8  C   UNL     1      47.201  16.278  17.486  0.00  0.00    -0.067 C 
+ATOM      9  C   UNL     1      47.237  17.760  17.744  0.00  0.00    +0.058 C 
+ATOM     10  C   UNL     1      46.623  18.053  19.113  0.00  0.00    +0.005 C 
+ATOM     11  C   UNL     1      46.627  19.551  19.408  0.00  0.00    -0.034 C 
+ATOM     12  C   UNL     1      48.009  20.157  19.175  0.00  0.00    +0.027 C 
+ATOM     13  C   UNL     1      45.651  20.232  18.430  0.00  0.00    +0.018 C 
+ATOM     14  C   UNL     1      45.558  21.722  18.752  0.00  0.00    -0.018 C 
+ATOM     15  C   UNL     1      44.994  21.922  20.153  0.00  0.00    +0.165 C 
+ATOM     18  C   UNL     1      45.833  21.207  21.214  0.00  0.00    -0.038 C 
+ATOM     19  C   UNL     1      47.091  22.015  21.522  0.00  0.00    +0.034 C 
+ATOM     20  C   UNL     1      44.977  21.194  22.505  0.00  0.00    +0.018 C 
+ATOM     21  C   UNL     1      46.126  19.776  20.828  0.00  0.00    -0.001 C 
+ATOM     22  C   UNL     1      47.047  19.062  21.817  0.00  0.00    +0.017 C 
+ATOM     23  C   UNL     1      46.860  17.552  21.579  0.00  0.00    +0.014 C 
+ATOM     24  C   UNL     1      47.297  17.181  20.165  0.00  0.00    -0.024 C 
+ATOM     25  C   UNL     1      48.824  17.337  20.077  0.00  0.00    +0.017 C 
+ATOM     26  C   UNL     1      47.906  11.646  18.480  0.00  0.00    +0.011 C 
+ATOM     27  C   UNL     1      48.154  11.437  16.992  0.00  0.00    +0.013 C 
+ATOM     28  C   UNL     1      47.212  12.272  16.132  0.00  0.00    -0.060 C 
+ATOM     29  C   UNL     1      45.783  11.741  16.253  0.00  0.00    +0.019 C 
+ATOM     30  C   UNL     1      47.650  12.146  14.663  0.00  0.00    +0.015 C 
+ATOM     31  C   UNL     1      47.260  13.746  16.528  0.00  0.00    +0.026 C 
+ATOM     32  C   UNL     1      46.994  13.920  18.016  0.00  0.00    +0.037 C 
+ENDROOT
+BRANCH  15  16
+ATOM     16  O   UNL     1      44.948  23.321  20.454  0.00  0.00    -0.564 OA
+ATOM     17  H   UNL     1      44.062  23.651  20.654  0.00  0.00    +0.375 HD
+ENDBRANCH  15  16
+TORSDOF 1
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -6.1      3.665      5.386
+REMARK  Name = ZINC05705861
+REMARK  9 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_2
+REMARK    2  A    between atoms: C5_5  and  C30_35
+REMARK    3  A    between atoms: C10_11  and  C22_26
+REMARK    4  A    between atoms: C14_16  and  C21_25
+REMARK    5  A    between atoms: C17_19  and  O1_24
+REMARK    6  A    between atoms: C18_21  and  C19_22
+REMARK    7  A    between atoms: C18_21  and  C20_23
+REMARK    8  A    between atoms: C25_30  and  C28_33
+REMARK    9  A    between atoms: C25_30  and  C29_34
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1      45.667  20.554  22.114  0.00  0.00    +0.023 C 
+ATOM      2  C   UNL     1      46.508  21.393  21.153  0.00  0.00    -0.044 C 
+ATOM      3  C   UNL     1      47.991  21.091  21.380  0.00  0.00    +0.008 C 
+ATOM      4  C   UNL     1      48.265  19.595  21.214  0.00  0.00    +0.022 C 
+ATOM      5  C   UNL     1      47.841  19.088  19.842  0.00  0.00    +0.000 C 
+ATOM      6  C   UNL     1      48.809  19.694  18.815  0.00  0.00    +0.017 C 
+ATOM      7  C   UNL     1      46.472  19.588  19.465  0.00  0.00    -0.089 C 
+ATOM      8  C   UNL     1      45.560  18.843  18.913  0.00  0.00    -0.067 C 
+ATOM      9  C   UNL     1      45.756  17.391  18.568  0.00  0.00    +0.058 C 
+ATOM     10  C   UNL     1      47.251  17.086  18.482  0.00  0.00    +0.005 C 
+ATOM     11  C   UNL     1      47.493  15.622  18.118  0.00  0.00    -0.034 C 
+ATOM     12  C   UNL     1      46.691  14.688  19.021  0.00  0.00    +0.027 C 
+ATOM     13  C   UNL     1      47.004  15.403  16.674  0.00  0.00    +0.018 C 
+ATOM     14  C   UNL     1      47.311  13.972  16.240  0.00  0.00    -0.018 C 
+ATOM     15  C   UNL     1      48.816  13.735  16.240  0.00  0.00    +0.165 C 
+ATOM     18  C   UNL     1      49.439  14.014  17.609  0.00  0.00    -0.038 C 
+ATOM     19  C   UNL     1      49.177  12.842  18.553  0.00  0.00    +0.034 C 
+ATOM     20  C   UNL     1      50.970  14.079  17.383  0.00  0.00    +0.018 C 
+ATOM     21  C   UNL     1      48.988  15.342  18.172  0.00  0.00    -0.001 C 
+ATOM     22  C   UNL     1      49.510  15.606  19.583  0.00  0.00    +0.017 C 
+ATOM     23  C   UNL     1      49.398  17.124  19.816  0.00  0.00    +0.014 C 
+ATOM     24  C   UNL     1      47.936  17.561  19.756  0.00  0.00    -0.024 C 
+ATOM     25  C   UNL     1      47.214  16.990  20.987  0.00  0.00    +0.017 C 
+ATOM     26  C   UNL     1      46.241  22.876  21.404  0.00  0.00    +0.011 C 
+ATOM     27  C   UNL     1      44.790  23.226  21.101  0.00  0.00    +0.013 C 
+ATOM     28  C   UNL     1      44.391  22.833  19.683  0.00  0.00    -0.060 C 
+ATOM     29  C   UNL     1      45.110  23.727  18.671  0.00  0.00    +0.019 C 
+ATOM     30  C   UNL     1      42.877  23.046  19.524  0.00  0.00    +0.015 C 
+ATOM     31  C   UNL     1      44.707  21.365  19.404  0.00  0.00    +0.026 C 
+ATOM     32  C   UNL     1      46.166  21.055  19.704  0.00  0.00    +0.037 C 
+ENDROOT
+BRANCH  15  16
+ATOM     16  O   UNL     1      49.086  12.379  15.867  0.00  0.00    -0.564 OA
+ATOM     17  H   UNL     1      49.555  11.872  16.543  0.00  0.00    +0.375 HD
+ENDBRANCH  15  16
+TORSDOF 1
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -6.1      4.008      7.189
+REMARK  Name = ZINC05705861
+REMARK  9 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_2
+REMARK    2  A    between atoms: C5_5  and  C30_35
+REMARK    3  A    between atoms: C10_11  and  C22_26
+REMARK    4  A    between atoms: C14_16  and  C21_25
+REMARK    5  A    between atoms: C17_19  and  O1_24
+REMARK    6  A    between atoms: C18_21  and  C19_22
+REMARK    7  A    between atoms: C18_21  and  C20_23
+REMARK    8  A    between atoms: C25_30  and  C28_33
+REMARK    9  A    between atoms: C25_30  and  C29_34
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1      47.769  12.964  19.634  0.00  0.00    +0.023 C 
+ATOM      2  C   UNL     1      47.630  13.405  18.178  0.00  0.00    -0.044 C 
+ATOM      3  C   UNL     1      46.173  13.781  17.898  0.00  0.00    +0.008 C 
+ATOM      4  C   UNL     1      45.705  14.869  18.866  0.00  0.00    +0.022 C 
+ATOM      5  C   UNL     1      46.580  16.112  18.791  0.00  0.00    +0.000 C 
+ATOM      6  C   UNL     1      46.313  16.775  17.431  0.00  0.00    +0.017 C 
+ATOM      7  C   UNL     1      48.045  15.761  18.799  0.00  0.00    -0.089 C 
+ATOM      8  C   UNL     1      48.934  16.400  19.500  0.00  0.00    -0.067 C 
+ATOM      9  C   UNL     1      48.622  17.578  20.382  0.00  0.00    +0.058 C 
+ATOM     10  C   UNL     1      47.293  18.198  19.952  0.00  0.00    +0.005 C 
+ATOM     11  C   UNL     1      46.947  19.409  20.815  0.00  0.00    -0.034 C 
+ATOM     12  C   UNL     1      47.057  19.079  22.301  0.00  0.00    +0.027 C 
+ATOM     13  C   UNL     1      47.969  20.520  20.510  0.00  0.00    +0.018 C 
+ATOM     14  C   UNL     1      47.604  21.782  21.287  0.00  0.00    -0.018 C 
+ATOM     15  C   UNL     1      46.242  22.297  20.840  0.00  0.00    +0.165 C 
+ATOM     18  C   UNL     1      45.147  21.242  21.008  0.00  0.00    -0.038 C 
+ATOM     19  C   UNL     1      44.721  21.156  22.472  0.00  0.00    +0.034 C 
+ATOM     20  C   UNL     1      43.924  21.757  20.209  0.00  0.00    +0.018 C 
+ATOM     21  C   UNL     1      45.560  19.908  20.431  0.00  0.00    -0.001 C 
+ATOM     22  C   UNL     1      44.533  18.803  20.671  0.00  0.00    +0.017 C 
+ATOM     23  C   UNL     1      44.835  17.692  19.651  0.00  0.00    +0.014 C 
+ATOM     24  C   UNL     1      46.226  17.112  19.896  0.00  0.00    -0.024 C 
+ATOM     25  C   UNL     1      46.195  16.335  21.222  0.00  0.00    +0.017 C 
+ATOM     26  C   UNL     1      48.052  12.260  17.257  0.00  0.00    +0.011 C 
+ATOM     27  C   UNL     1      49.525  11.922  17.451  0.00  0.00    +0.013 C 
+ATOM     28  C   UNL     1      50.422  13.139  17.255  0.00  0.00    -0.060 C 
+ATOM     29  C   UNL     1      50.424  13.556  15.783  0.00  0.00    +0.019 C 
+ATOM     30  C   UNL     1      51.858  12.756  17.650  0.00  0.00    +0.015 C 
+ATOM     31  C   UNL     1      49.972  14.307  18.131  0.00  0.00    +0.026 C 
+ATOM     32  C   UNL     1      48.503  14.626  17.901  0.00  0.00    +0.037 C 
+ENDROOT
+BRANCH  15  16
+ATOM     16  O   UNL     1      45.897  23.459  21.604  0.00  0.00    -0.564 OA
+ATOM     17  H   UNL     1      45.260  23.289  22.311  0.00  0.00    +0.375 HD
+ENDBRANCH  15  16
+TORSDOF 1
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -6.1      2.749      4.174
+REMARK  Name = ZINC05705861
+REMARK  9 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_2
+REMARK    2  A    between atoms: C5_5  and  C30_35
+REMARK    3  A    between atoms: C10_11  and  C22_26
+REMARK    4  A    between atoms: C14_16  and  C21_25
+REMARK    5  A    between atoms: C17_19  and  O1_24
+REMARK    6  A    between atoms: C18_21  and  C19_22
+REMARK    7  A    between atoms: C18_21  and  C20_23
+REMARK    8  A    between atoms: C25_30  and  C28_33
+REMARK    9  A    between atoms: C25_30  and  C29_34
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1      44.368  19.484  18.262  0.00  0.00    +0.023 C 
+ATOM      2  C   UNL     1      44.427  19.605  19.784  0.00  0.00    -0.044 C 
+ATOM      3  C   UNL     1      44.363  18.209  20.408  0.00  0.00    +0.008 C 
+ATOM      4  C   UNL     1      45.489  17.327  19.865  0.00  0.00    +0.022 C 
+ATOM      5  C   UNL     1      46.861  17.939  20.116  0.00  0.00    +0.000 C 
+ATOM      6  C   UNL     1      47.119  17.873  21.629  0.00  0.00    +0.017 C 
+ATOM      7  C   UNL     1      46.890  19.401  19.755  0.00  0.00    -0.089 C 
+ATOM      8  C   UNL     1      47.867  19.963  19.107  0.00  0.00    -0.067 C 
+ATOM      9  C   UNL     1      49.098  19.233  18.643  0.00  0.00    +0.058 C 
+ATOM     10  C   UNL     1      49.262  17.947  19.451  0.00  0.00    +0.005 C 
+ATOM     11  C   UNL     1      50.512  17.182  19.020  0.00  0.00    -0.034 C 
+ATOM     12  C   UNL     1      50.557  17.005  17.504  0.00  0.00    +0.027 C 
+ATOM     13  C   UNL     1      51.743  18.013  19.427  0.00  0.00    +0.018 C 
+ATOM     14  C   UNL     1      53.017  17.241  19.094  0.00  0.00    -0.018 C 
+ATOM     15  C   UNL     1      53.070  15.946  19.896  0.00  0.00    +0.165 C 
+ATOM     18  C   UNL     1      51.843  15.068  19.647  0.00  0.00    -0.038 C 
+ATOM     19  C   UNL     1      51.982  14.337  18.313  0.00  0.00    +0.034 C 
+ATOM     20  C   UNL     1      51.851  13.988  20.758  0.00  0.00    +0.018 C 
+ATOM     21  C   UNL     1      50.557  15.853  19.762  0.00  0.00    -0.001 C 
+ATOM     22  C   UNL     1      49.316  15.031  19.419  0.00  0.00    +0.017 C 
+ATOM     23  C   UNL     1      48.115  15.771  20.034  0.00  0.00    +0.014 C 
+ATOM     24  C   UNL     1      47.963  17.152  19.401  0.00  0.00    -0.024 C 
+ATOM     25  C   UNL     1      47.517  16.964  17.942  0.00  0.00    +0.017 C 
+ATOM     26  C   UNL     1      43.246  20.442  20.275  0.00  0.00    +0.011 C 
+ATOM     27  C   UNL     1      43.331  21.866  19.740  0.00  0.00    +0.013 C 
+ATOM     28  C   UNL     1      44.656  22.532  20.094  0.00  0.00    -0.060 C 
+ATOM     29  C   UNL     1      44.724  22.796  21.599  0.00  0.00    +0.019 C 
+ATOM     30  C   UNL     1      44.735  23.883  19.364  0.00  0.00    +0.015 C 
+ATOM     31  C   UNL     1      45.842  21.675  19.657  0.00  0.00    +0.026 C 
+ATOM     32  C   UNL     1      45.733  20.266  20.220  0.00  0.00    +0.037 C 
+ENDROOT
+BRANCH  15  16
+ATOM     16  O   UNL     1      54.251  15.216  19.546  0.00  0.00    -0.564 OA
+ATOM     17  H   UNL     1      54.305  14.982  18.610  0.00  0.00    +0.375 HD
+ENDBRANCH  15  16
+TORSDOF 1
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -6.1      4.175      5.917
+REMARK  Name = ZINC05705861
+REMARK  9 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C2_2
+REMARK    2  A    between atoms: C5_5  and  C30_35
+REMARK    3  A    between atoms: C10_11  and  C22_26
+REMARK    4  A    between atoms: C14_16  and  C21_25
+REMARK    5  A    between atoms: C17_19  and  O1_24
+REMARK    6  A    between atoms: C18_21  and  C19_22
+REMARK    7  A    between atoms: C18_21  and  C20_23
+REMARK    8  A    between atoms: C25_30  and  C28_33
+REMARK    9  A    between atoms: C25_30  and  C29_34
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1      46.001  19.923  21.036  0.00  0.00    +0.023 C 
+ATOM      2  C   UNL     1      45.604  20.137  19.577  0.00  0.00    -0.044 C 
+ATOM      3  C   UNL     1      46.863  20.359  18.735  0.00  0.00    +0.008 C 
+ATOM      4  C   UNL     1      47.827  19.182  18.893  0.00  0.00    +0.022 C 
+ATOM      5  C   UNL     1      47.178  17.859  18.508  0.00  0.00    +0.000 C 
+ATOM      6  C   UNL     1      46.967  17.883  16.986  0.00  0.00    +0.017 C 
+ATOM      7  C   UNL     1      45.807  17.718  19.114  0.00  0.00    -0.089 C 
+ATOM      8  C   UNL     1      45.371  16.622  19.661  0.00  0.00    -0.067 C 
+ATOM      9  C   UNL     1      46.172  15.351  19.752  0.00  0.00    +0.058 C 
+ATOM     10  C   UNL     1      47.289  15.379  18.709  0.00  0.00    +0.005 C 
+ATOM     11  C   UNL     1      48.118  14.097  18.758  0.00  0.00    -0.034 C 
+ATOM     12  C   UNL     1      48.569  13.783  20.183  0.00  0.00    +0.027 C 
+ATOM     13  C   UNL     1      47.225  12.934  18.287  0.00  0.00    +0.018 C 
+ATOM     14  C   UNL     1      48.044  11.646  18.235  0.00  0.00    -0.018 C 
+ATOM     15  C   UNL     1      49.170  11.781  17.218  0.00  0.00    +0.165 C 
+ATOM     18  C   UNL     1      50.081  12.971  17.527  0.00  0.00    -0.038 C 
+ATOM     19  C   UNL     1      51.043  12.616  18.659  0.00  0.00    +0.034 C 
+ATOM     20  C   UNL     1      50.940  13.199  16.259  0.00  0.00    +0.018 C 
+ATOM     21  C   UNL     1      49.290  14.230  17.794  0.00  0.00    -0.001 C 
+ATOM     22  C   UNL     1      50.162  15.414  18.206  0.00  0.00    +0.017 C 
+ATOM     23  C   UNL     1      49.324  16.683  17.967  0.00  0.00    +0.014 C 
+ATOM     24  C   UNL     1      48.082  16.672  18.854  0.00  0.00    -0.024 C 
+ATOM     25  C   UNL     1      48.533  16.852  20.313  0.00  0.00    +0.017 C 
+ATOM     26  C   UNL     1      44.692  21.359  19.471  0.00  0.00    +0.011 C 
+ATOM     27  C   UNL     1      43.390  21.132  20.227  0.00  0.00    +0.013 C 
+ATOM     28  C   UNL     1      42.669  19.873  19.761  0.00  0.00    -0.060 C 
+ATOM     29  C   UNL     1      42.135  20.071  18.341  0.00  0.00    +0.019 C 
+ATOM     30  C   UNL     1      41.474  19.619  20.694  0.00  0.00    +0.015 C 
+ATOM     31  C   UNL     1      43.590  18.656  19.810  0.00  0.00    +0.026 C 
+ATOM     32  C   UNL     1      44.873  18.911  19.033  0.00  0.00    +0.037 C 
+ENDROOT
+BRANCH  15  16
+ATOM     16  O   UNL     1      49.951  10.581  17.207  0.00  0.00    -0.564 OA
+ATOM     17  H   UNL     1      49.425   9.770  17.177  0.00  0.00    +0.375 HD
+ENDBRANCH  15  16
+TORSDOF 1
+ENDMDL
