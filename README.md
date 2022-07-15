@@ -1,2 +1,2 @@
 # 52E.and.L589.ligand
- •	Comparison binding affinity of 52E and L589 ligand to 5M05 protein
+ •	A comparison of the binding affinity of 52𝐸 and 𝐿589 ligands to 5𝑀05 protein
