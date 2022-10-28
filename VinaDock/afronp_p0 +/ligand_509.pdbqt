@@ -1,0 +1,72 @@
+REMARK  Name = ZINC95486340
+REMARK  9 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C3_3  and  O10_36
+REMARK    2  A    between atoms: C4_4  and  O9_35
+REMARK    3  A    between atoms: C6_6  and  C7_7
+REMARK    4  A    between atoms: C8_9  and  C16_22
+REMARK    5  A    between atoms: C11_14  and  O4_21
+REMARK    6  A    between atoms: C13_16  and  O3_20
+REMARK    7  A    between atoms: C17_24  and  O8_34
+REMARK    8  A    between atoms: C18_26  and  O7_33
+REMARK    9  A    between atoms: C19_28  and  O6_32
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM     11  C   UNL     1      -1.294  -0.774   0.010  0.00  0.00    +0.292 C 
+ATOM     12  C   UNL     1      -1.877  -0.810  -1.410  0.00  0.00    -0.024 C 
+ATOM     25  C   UNL     1      -2.144   0.626  -1.823  0.00  0.00    +0.432 C 
+ATOM     26  C   UNL     1      -2.695   1.514  -0.794  0.00  0.00    -0.257 A 
+ATOM     27  C   UNL     1      -3.211   2.774  -1.136  0.00  0.00    +0.218 A 
+ATOM     30  C   UNL     1      -3.714   3.596  -0.144  0.00  0.00    -0.084 A 
+ATOM     31  C   UNL     1      -3.710   3.174   1.179  0.00  0.00    +0.190 A 
+ATOM     34  C   UNL     1      -3.207   1.926   1.523  0.00  0.00    -0.068 A 
+ATOM     35  C   UNL     1      -2.700   1.086   0.546  0.00  0.00    +0.227 A 
+ATOM     36  O   UNL     1      -1.912   1.020  -2.948  0.00  0.00    -0.410 OA
+ATOM     37  O   UNL     1      -2.222  -0.135   0.886  0.00  0.00    -0.282 OA
+ENDROOT
+BRANCH  11  10
+ATOM      1  C   UNL     1       1.073  -0.466  -0.739  0.00  0.00    +0.038 A 
+ATOM      2  C   UNL     1       2.265   0.237  -0.750  0.00  0.00    +0.014 A 
+ATOM      3  C   UNL     1       2.386   1.406  -0.017  0.00  0.00    +0.090 A 
+ATOM      6  C   UNL     1       1.307   1.871   0.730  0.00  0.00    +0.089 A 
+ATOM      9  C   UNL     1       0.116   1.162   0.736  0.00  0.00    +0.024 A 
+ATOM     10  C   UNL     1       0.002  -0.004   0.002  0.00  0.00    -0.126 A 
+BRANCH   3   4
+ATOM      4  O   UNL     1       3.557   2.098  -0.026  0.00  0.00    -0.487 OA
+ATOM      5  H   UNL     1       3.615   2.764  -0.725  0.00  0.00    +0.391 HD
+ENDBRANCH   3   4
+BRANCH   6   7
+ATOM      7  O   UNL     1       1.421   3.018   1.451  0.00  0.00    -0.485 OA
+ATOM      8  H   UNL     1       1.173   3.816   0.964  0.00  0.00    +0.390 HD
+ENDBRANCH   6   7
+ENDBRANCH  11  10
+BRANCH  12  13
+ATOM     13  C   UNL     1      -3.183  -1.607  -1.416  0.00  0.00    +0.203 C 
+ATOM     14  C   UNL     1      -3.691  -1.743  -2.854  0.00  0.00    +0.167 C 
+ATOM     17  C   UNL     1      -5.029  -2.489  -2.846  0.00  0.00    +0.153 C 
+ATOM     20  C   UNL     1      -6.016  -1.735  -1.950  0.00  0.00    +0.122 C 
+ATOM     23  C   UNL     1      -5.418  -1.599  -0.547  0.00  0.00    +0.198 C 
+ATOM     24  O   UNL     1      -4.161  -0.924  -0.629  0.00  0.00    -0.345 OA
+BRANCH  14  15
+ATOM     15  O   UNL     1      -3.871  -0.444  -3.422  0.00  0.00    -0.540 OA
+ATOM     16  H   UNL     1      -4.192  -0.455  -4.334  0.00  0.00    +0.388 HD
+ENDBRANCH  14  15
+BRANCH  17  18
+ATOM     18  O   UNL     1      -5.545  -2.558  -4.177  0.00  0.00    -0.560 OA
+ATOM     19  H   UNL     1      -6.393  -3.019  -4.246  0.00  0.00    +0.393 HD
+ENDBRANCH  17  18
+BRANCH  20  21
+ATOM     21  O   UNL     1      -7.245  -2.460  -1.878  0.00  0.00    -0.564 OA
+ATOM     22  H   UNL     1      -7.918  -2.039  -1.325  0.00  0.00    +0.387 HD
+ENDBRANCH  20  21
+ENDBRANCH  12  13
+BRANCH  27  28
+ATOM     28  O   UNL     1      -3.215   3.182  -2.430  0.00  0.00    -0.477 OA
+ATOM     29  H   UNL     1      -4.016   2.943  -2.915  0.00  0.00    +0.399 HD
+ENDBRANCH  27  28
+BRANCH  31  32
+ATOM     32  O   UNL     1      -4.202   3.989   2.146  0.00  0.00    -0.492 OA
+ATOM     33  H   UNL     1      -5.147   3.871   2.316  0.00  0.00    +0.400 HD
+ENDBRANCH  31  32
+TORSDOF 9
